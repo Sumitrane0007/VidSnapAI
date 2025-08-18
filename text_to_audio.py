@@ -49,5 +49,3 @@ def text_to_speech_file(text: str, folder: str) -> str:
     return save_file_path
 
 # text_to_speech_file("Hey am a good boy but this world is cruel then i ever thought", "4546fbf4-753a-11f0-b0c0-28cdc4d6143e")
-
-
